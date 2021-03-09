@@ -3,7 +3,10 @@
 ## I am a life time Student
  - Currently learning and currently learning more about Machine Learning and Deep Learning
  - Looking to collaborate with other machine learning and deep learning enthusists 
- - 2021 Goals: Contribute more to Open Source projects
+
+2021 Goals: 
+ - Work on more projects
+ - Contribute to Open Source projects
 
 
 ### Connect with me:
