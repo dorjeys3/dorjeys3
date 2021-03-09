@@ -1,9 +1,12 @@
 ### Hello! I'm [Dorjey][website]
 
-## I am a life time Student
- - Currently learning and currently learning more about Machine Learning and Deep Learning
- - Looking to collaborate with other machine learning and deep learning enthusists 
- - 2021 Goals: Contribute more to Open Source projects
+## I am a student of life and always hungry to learn
+ - Currently learning more about Machine Learning and Deep Learning
+ - Looking to collaborate with other machine learning and deep learning enthusiasts 
+
+2021 Goals: 
+ - Work on more projects
+ - Contribute to Open Source projects
 
 
 ### Connect with me:
