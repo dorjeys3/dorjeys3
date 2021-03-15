@@ -23,7 +23,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Univariate, Bivariate and Multivariate Analysis](https://medium.com/@dorjeys3/univariate-bivariate-and-multivariate-analysis-8b4fc3d8202c?source=rss-ba01586ee5e8------2)
+- [Univariate, Bivariate and Multivariate Analysis](https://medium.com/analytics-vidhya/univariate-bivariate-and-multivariate-analysis-8b4fc3d8202c?source=rss-ba01586ee5e8------2)
 - [Beginners guide: from collections import Counter](https://medium.com/analytics-vidhya/beginners-guide-from-collections-import-counter-d93bcecd190b?source=rss-ba01586ee5e8------2)
 - [Plot with Plotly (Basics)](https://medium.com/analytics-vidhya/plot-with-plotly-basics-9ae546dc03ae?source=rss-ba01586ee5e8------2)
 - [A Violin is better](https://medium.com/analytics-vidhya/a-violin-is-better-f7068129a14?source=rss-ba01586ee5e8------2)
