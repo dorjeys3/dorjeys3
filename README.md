@@ -26,7 +26,7 @@
 - [Intro to Univariate Analysis](https://medium.com/analytics-vidhya/intro-to-univariate-analysis-de75454b4719?source=rss-ba01586ee5e8------2)
 - [Univariate, Bivariate and Multivariate Analysis](https://medium.com/analytics-vidhya/univariate-bivariate-and-multivariate-analysis-8b4fc3d8202c?source=rss-ba01586ee5e8------2)
 - [Beginners guide: from collections import Counter](https://medium.com/analytics-vidhya/beginners-guide-from-collections-import-counter-d93bcecd190b?source=rss-ba01586ee5e8------2)
-- [Plot with Plotly (Basics)](https://medium.com/analytics-vidhya/plot-with-plotly-basics-9ae546dc03ae?source=rss-ba01586ee5e8------2)
+- [Plot with Plotly &lpar;Basics&rpar;](https://medium.com/analytics-vidhya/plot-with-plotly-basics-9ae546dc03ae?source=rss-ba01586ee5e8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dorjeys3.medium.com/)
