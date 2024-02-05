@@ -1,13 +1,12 @@
-### Hello! I'm [Dorjey][website]
+### Hello! I'm Dorjey
 
- - Currently learning more about Machine Learning and Deep Learning
+ - Currently working as a Fraud Risk Data Analyst at Snap Finance
  - Looking to collaborate with other machine learning and deep learning enthusiasts 
 
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -37,6 +36,6 @@
 
 </details>
 
-[website]: https://dorjeysherpa.com/
+#[website]: https://dorjeysherpa.com/
 [twitter]: https://twitter.com/dorjeys3
 [linkedin]: https://linkedin.com/in/dorjeys3
